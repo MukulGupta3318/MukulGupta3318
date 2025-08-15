@@ -1,16 +1,67 @@
-## Hi there 👋
 
-<!--
-**MukulGupta3318/MukulGupta3318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<h1 align="center">Hi, I'm Mukul Gupta 👋</h1>
+<p align="center">
+  <b>Data Analyst • Python & SQL Developer</b><br/>
+  Turning raw data into actionable insights with Python, SQL, Power BI, and Excel.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukulgupta3318">LinkedIn</a> •
+  <a href="https://github.com/MukulGupta3318">GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔎 About Me
+- I build **analytical dashboards**, **automations**, and **SQL-driven insights**.
+- Comfortable across **Python (Pandas, NumPy)**, **MySQL**, **Power BI**, **Excel/Power Query**.
+- Currently targeting **Data Analyst Intern** roles.
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, SQL (MySQL), DAX  
+**Analytics & BI:** Power BI, Excel (Pivot Tables, Power Query), Data Modeling  
+**Libraries & Tools:** Pandas, NumPy, Matplotlib, Jupyter, Git/GitHub  
+
+---
+
+### 📌 Featured Projects
+- **FNP Sales Analysis – Excel, Power Query**  
+  Interactive dashboard for e-commerce sales by product, category, occasion, city; slicers + KPIs for quick insights.  
+  Repo: `[https://github.com/MukulGupta3318/fnp-sales-analysis-dashboard]`
+
+- **Hospital Emergency Dashboard – Excel, Power Query**  
+  Dashboard tracking emergency department KPIs such as patient volume, wait times, admission rates, and satisfaction scores.
+  Repo: `[https://github.com/MukulGupta3318/Hospital-Emergency-Room-Dashboard]`
+
+- **Motorola Sales Dashboard – Power BI**  
+  City/brand/model analysis with dynamic KPIs, maps, and visual filters; tracks revenue, units, transactions, payments.  
+  Repo: `[https://github.com/MukulGupta3318/motorola-sales-dashboard-powerbi]`
+
+- **Pizza Sales Analysis – MySQL**  
+  End-to-end SQL analysis (basic → advanced): revenue, top sellers, hourly patterns, cumulative and % contribution.  
+  Repo: `[https://github.com/MukulGupta3318/Pizza-Sales-Analysis-SQL]`
+
+- **Jarvis – Python Voice Assistant**  
+  Speech-controlled automation for searches, apps, and browser tasks using SpeechRecognition + pyttsx3.  
+  Repo: `[https://github.com/MukulGupta3318/Jarvis_Voice_Assistant]`
+
+
+---
+
+### 🚀 What I’m Learning/Exploring
+- Advanced **DAX** & **Power BI** modeling  
+- **SQL performance tuning** & window functions  
+- **Python automation** for data pipelines
+
+---
+
+### 📫 Connect
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mukulgupta3318">mukulgupta3318</a>  
+- **GitHub:** <a href="https://github.com/MukulGupta3318">MukulGupta3318</a>
+
+---
+
+
