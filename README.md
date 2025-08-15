@@ -30,23 +30,19 @@
 ### 📌 Featured Projects
 - **FNP Sales Analysis – Excel, Power Query**  
   Interactive dashboard for e-commerce sales by product, category, occasion, city; slicers + KPIs for quick insights.  
-  Repo: `[https://github.com/MukulGupta3318/fnp-sales-analysis-dashboard]`
+  
 
 - **Hospital Emergency Dashboard – Excel, Power Query**  
   Dashboard tracking emergency department KPIs such as patient volume, wait times, admission rates, and satisfaction scores.
-  Repo: `[https://github.com/MukulGupta3318/Hospital-Emergency-Room-Dashboard]`
 
 - **Motorola Sales Dashboard – Power BI**  
   City/brand/model analysis with dynamic KPIs, maps, and visual filters; tracks revenue, units, transactions, payments.  
-  Repo: `[https://github.com/MukulGupta3318/motorola-sales-dashboard-powerbi]`
 
 - **Pizza Sales Analysis – MySQL**  
   End-to-end SQL analysis (basic → advanced): revenue, top sellers, hourly patterns, cumulative and % contribution.  
-  Repo: `[https://github.com/MukulGupta3318/Pizza-Sales-Analysis-SQL]`
 
 - **Jarvis – Python Voice Assistant**  
   Speech-controlled automation for searches, apps, and browser tasks using SpeechRecognition + pyttsx3.  
-  Repo: `[https://github.com/MukulGupta3318/Jarvis_Voice_Assistant]`
 
 
 ---
